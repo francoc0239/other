@@ -1,8 +1,8 @@
 # Process Writeup
 
-## Name: 
-## Course: 
-## Period: 
+## Name: Franco cortes 
+## Course: SEP (web design)
+## Period: 2
 ## Concept: 
 
 ### Section
